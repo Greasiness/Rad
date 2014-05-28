@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="billboard_list.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfigSettings.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="glslprogram.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="glutils.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5Animation.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5Model.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5ModelLoaderPCH.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ogldev_util.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderController.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="VAO.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh_Static.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Window.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="billboard_list.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientState.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigSettings.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="glslprogram.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="glutils.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Ground.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="JSON_Parse.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5Animation.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5Model.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5ModelLoaderPCH.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Octree.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ogldev_util.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderController.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyBox.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureScreen.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="VAO.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh_Static.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimController.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem2.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="gameState.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{481e201b-3fe4-4cf8-89dd-d182aa907fee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{21714ed9-80ac-4d01-b1b3-852b545ea5f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2b620faf-a0ae-426b-b60c-d0eb3f34827b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config File">
+      <UniqueIdentifier>{32aae289-32a4-418a-823c-95e0eb343de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maps">
+      <UniqueIdentifier>{97c126b0-16e8-42de-b546-88ee6867496e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\basic_edge_detection.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_edge_detection.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_flat.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_flat.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_lighted_texture.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_lighted_texture.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_model.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_model.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_phong_with_fog_potential.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_phong_with_fog_potential.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_projected_texture.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_projected_texture.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_reflect_refract.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_reflect_refract.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_skybox.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_skybox.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_texture_with_moss_potential.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\basic_texture_with_moss_potential.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\billboard.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\billboard.geom">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\billboard.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\emitter.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\emitter.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\grid_ground.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\grid_ground.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ps_update.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ps_update.geom">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ps_update.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Config.ini">
+      <Filter>Config File</Filter>
+    </None>
+    <None Include="ConfigTemplate.ini">
+      <Filter>Config File</Filter>
+    </None>
+    <None Include="Shaders\ground_tess.cntl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ground_tess.eval">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ground_tess.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ground_tess.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ui_particle.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\ui_particle.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Maps\Test1.json">
+      <Filter>Maps</Filter>
+    </None>
+  </ItemGroup>
+</Project>
